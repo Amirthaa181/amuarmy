@@ -7,6 +7,7 @@ public class EmployeeDetails {
 	public void javaCourse() {
 		
 		System.out.println("Java class ...");
+		System.out.println("Army ready");
 	}
 	
 	private void pythonCourse() {
