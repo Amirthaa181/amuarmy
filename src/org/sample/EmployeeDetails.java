@@ -8,6 +8,7 @@ public class EmployeeDetails {
 		
 		System.out.println("Java class ...");
 		System.out.println("Army ready");
+		System.out.println("Always Army");
 	}
 	
 	private void pythonCourse() {
