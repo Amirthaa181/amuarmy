@@ -10,6 +10,8 @@ public class EmployeeDetails {
 		System.out.println("Army ready");
 		System.out.println("Army1 ready");
 		System.out.println("Army2 ready");
+		System.out.println("Always Army");
+
 	}
 	
 	private void pythonCourse() {
